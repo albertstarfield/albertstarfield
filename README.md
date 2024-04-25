@@ -2,7 +2,7 @@
 
 Salutations, esteemed cohorts! I am known as Albert Starfield Wahyu Suryo Samudro, though in legal spheres, I am identified as Wahyu Suryo Samudro, hailing from the illustrious Indonesian terrain. Should my endeavors captivate your curiosity or perhaps warrant greater recognition, I extend a warm invitation for your engagement. Your patronage not only garners sincere gratitude but also serves as a pivotal force propelling the progression of these ventures.
 
-As a nascent AI engineer, I am engrossed in the cultivation of Project Zephyr. My ardor for Linux and Unix systems, inclusive of Darwin, is palpable, as I am wont to fashion utilities from their depths. The dichotomy of Windows, with its enigmatic controls and perplexing directory structures, invokes within me a profound aversion. Oh, Windows, the mysteries of your design perplex me so.
+As a nascent AI engineer, I am engrossed in the cultivation of Project Zephyrine. My ardor for Linux and Unix systems, inclusive of Darwin, is palpable, as I am wont to fashion utilities from their depths. The dichotomy of Windows, with its enigmatic controls and perplexing directory structures, invokes within me a profound aversion. Oh, Windows, the mysteries of your design perplex me so.
 
 The realm of Linux and Unix empowers one with unparalleled control, save for the confines imposed by stringent security protocols barring the implementation of comprehensive surveillance and educational assessment programs. Alas, such restrictions are an inevitable consequence of safeguarding our digital domains.
 
