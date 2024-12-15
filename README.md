@@ -4,7 +4,7 @@ Hello there 👋, I hope you have an absolute masterpiece of days on end. I am k
 
 I have to confess to you and declare to prevent misinformation, **I am NOT an AI engineer nor an Computer Science person**, It's just so happen that I have personal experience on Linux and Machine Learning. And I'm just a person that happens **reads the manual** rather than watching youtube tutorial, because most of the time there's a golden treasure hidden on the documentation itself.
 
-Furthermore, I am more biased towards distributed indipendent non-subscription model services, that happen to able to stand byitself rather than relying on a big Green GPUs centralized on a clod-centric paradigm. But I digress.
+Furthermore, I am more biased towards distributed indipendent non-subscription model services, that happen to able to stand by itself rather than relying on power hungry big Green GPUs and centralized and cloud-centric only paradigm. But I digress.
 
 Mayhap you have found a kernel of intrigue within these musings. 
 
