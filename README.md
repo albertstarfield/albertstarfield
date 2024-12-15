@@ -2,7 +2,7 @@
 
 Hello there 👋, I hope you have an absolute masterpiece of days on end. I am known as Albert Starfield Wahyu Suryo Samudro, or through the legal name identified as Wahyu Suryo Samudro. Risen from Indonesian terrain. I extend my warm invitation to you, to contribute, and may our incredible journey of  projects, may be contributing to the pivotal force of etheral impact foundation of our paradigm itself.
 
-I have to confess to you, I am NOT an AI engineer nor an Computer Science person, It's just so happen that I have personal experience on Linux and Machine Learning. And I'm just a person that happens reads the manual rather than watching youtube tutorial, because most of the time there's a golden treasure hidden on the documentation itself.
+I have to confess to you and declare to prevent misinformation, **I am NOT an AI engineer nor an Computer Science person**, It's just so happen that I have personal experience on Linux and Machine Learning. And I'm just a person that happens **reads the manual** rather than watching youtube tutorial, because most of the time there's a golden treasure hidden on the documentation itself.
 
 Furthermore, I am more biased towards distributed indipendent non-subscription model services, that happen to able to stand byitself rather than relying on a big Green GPUs centralized on a clod-centric paradigm. But I digress.
 
